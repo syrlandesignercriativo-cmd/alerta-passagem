@@ -6,11 +6,17 @@
         "ida": 466,
         "volta": 465,
         "total": 931
+      },
+      {
+        "quando": "18/10 20:27",
+        "ida": 466,
+        "volta": 465,
+        "total": 931
       }
     ],
     "menor_total": 931,
     "atual": {
-      "quando": "18/10 15:25",
+      "quando": "18/10 20:27",
       "total": 931,
       "ida": {
         "preco": 466,
