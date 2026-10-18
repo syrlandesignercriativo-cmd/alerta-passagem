@@ -1,1 +1,53 @@
-{}
+{
+  "viagem": {
+    "leituras": [
+      {
+        "quando": "18/10 15:25",
+        "ida": 466,
+        "volta": 465,
+        "total": 931
+      }
+    ],
+    "menor_total": 931,
+    "atual": {
+      "quando": "18/10 15:25",
+      "total": 931,
+      "ida": {
+        "preco": 466,
+        "companhia": "LATAM",
+        "saida": "04:00",
+        "chegada": "05:20",
+        "paradas": 0,
+        "link": "https://www.google.com/travel/flights?hl=pt-br&gl=br&curr=BRL&tfs=CBwQAhoeEgoyMDI3LTAxLTI5agcIARIDUkVDcgcIARIDRk9SQAFIAXABmAEC&tfu=EgIIAQ"
+      },
+      "volta": {
+        "preco": 465,
+        "companhia": "LATAM",
+        "saida": "09:00",
+        "chegada": "10:15",
+        "paradas": 0,
+        "link": "https://www.google.com/travel/flights?hl=pt-br&gl=br&curr=BRL&tfs=CBwQAhoeEgoyMDI3LTAxLTMxagcIARIDRk9ScgcIARIDUkVDQAFIAXABmAEC&tfu=EgIIAQ"
+      }
+    }
+  },
+  "brasil": {
+    "avisadas": {
+      "Petrolina|2027-02-08|2027-02-15": 599
+    },
+    "atual": {
+      "quando": "18/10 15:25",
+      "ofertas": [
+        {
+          "cidade": "Petrolina",
+          "codigo": "PNZ",
+          "preco": 599,
+          "ida": "2027-02-08",
+          "volta": "2027-02-15",
+          "companhia": "LATAM",
+          "paradas": 0,
+          "link": "https://www.google.com/travel/explore?hl=pt-br&gl=br&curr=BRL&tfs=CBwQAxoVEgoyMDI3LTAyLTA4agcIARIDUkVDGhUSCjIwMjctMDItMTVyBwgBEgNSRUNAAUgBcAGCAQsI____________AZgBAbIBDyoNCAMSCS9tLzA4ZnBqdw"
+        }
+      ]
+    }
+  }
+}
