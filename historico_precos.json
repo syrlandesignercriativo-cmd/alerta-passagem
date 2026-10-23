@@ -90,14 +90,20 @@
         "ida": 467,
         "volta": 466,
         "total": 933
+      },
+      {
+        "quando": "23/10 13:34",
+        "ida": 466,
+        "volta": 465,
+        "total": 931
       }
     ],
     "menor_total": 769,
     "atual": {
-      "quando": "23/10 07:35",
-      "total": 933,
+      "quando": "23/10 13:34",
+      "total": 931,
       "ida": {
-        "preco": 467,
+        "preco": 466,
         "companhia": "LATAM",
         "saida": "04:00",
         "chegada": "05:20",
@@ -105,7 +111,7 @@
         "link": "https://www.google.com/travel/flights?hl=pt-br&gl=br&curr=BRL&tfs=CBwQAhoeEgoyMDI3LTAxLTI5agcIARIDUkVDcgcIARIDRk9SQAFIAXABmAEC&tfu=EgIIAQ"
       },
       "volta": {
-        "preco": 466,
+        "preco": 465,
         "companhia": "LATAM",
         "saida": "09:00",
         "chegada": "10:15",
