@@ -102,11 +102,17 @@
         "ida": 466,
         "volta": 465,
         "total": 931
+      },
+      {
+        "quando": "24/10 07:33",
+        "ida": 466,
+        "volta": 465,
+        "total": 931
       }
     ],
     "menor_total": 769,
     "atual": {
-      "quando": "23/10 20:31",
+      "quando": "24/10 07:33",
       "total": 931,
       "ida": {
         "preco": 466,
@@ -135,8 +141,19 @@
       "Petrolina|2027-02-19|2027-02-26": 599
     },
     "atual": {
-      "quando": "23/10 07:35",
-      "ofertas": []
+      "quando": "24/10 07:33",
+      "ofertas": [
+        {
+          "cidade": "Petrolina",
+          "codigo": "PNZ",
+          "preco": 599,
+          "ida": "2027-02-08",
+          "volta": "2027-02-15",
+          "companhia": "LATAM",
+          "paradas": 0,
+          "link": "https://www.google.com/travel/explore?hl=pt-br&gl=br&curr=BRL&tfs=CBwQAxoVEgoyMDI3LTAyLTA4agcIARIDUkVDGhUSCjIwMjctMDItMTVyBwgBEgNSRUNAAUgBcAGCAQsI____________AZgBAbIBDyoNCAMSCS9tLzA4ZnBqdw"
+        }
+      ]
     }
   }
 }
