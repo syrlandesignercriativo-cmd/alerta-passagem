@@ -138,14 +138,20 @@
         "ida": 466,
         "volta": 465,
         "total": 931
+      },
+      {
+        "quando": "26/10 07:44",
+        "ida": 467,
+        "volta": 466,
+        "total": 933
       }
     ],
     "menor_total": 769,
     "atual": {
-      "quando": "25/10 20:27",
-      "total": 931,
+      "quando": "26/10 07:44",
+      "total": 933,
       "ida": {
-        "preco": 466,
+        "preco": 467,
         "companhia": "LATAM",
         "saida": "04:00",
         "chegada": "05:20",
@@ -153,7 +159,7 @@
         "link": "https://www.google.com/travel/flights?hl=pt-br&gl=br&curr=BRL&tfs=CBwQAhoeEgoyMDI3LTAxLTI5agcIARIDUkVDcgcIARIDRk9SQAFIAXABmAEC&tfu=EgIIAQ"
       },
       "volta": {
-        "preco": 465,
+        "preco": 466,
         "companhia": "LATAM",
         "saida": "09:00",
         "chegada": "10:15",
@@ -169,20 +175,31 @@
       "Salvador|2027-02-25|2027-03-01": 593,
       "Petrolina|2027-02-26|2027-03-01": 599,
       "Petrolina|2027-02-19|2027-02-26": 599,
-      "Salvador|2027-03-05|2027-03-07": 594
+      "Salvador|2027-03-05|2027-03-07": 594,
+      "Salvador|2027-02-14|2027-02-22": 594
     },
     "atual": {
-      "quando": "25/10 07:33",
+      "quando": "26/10 07:44",
       "ofertas": [
         {
           "cidade": "Salvador",
           "codigo": "SSA",
           "preco": 594,
-          "ida": "2027-03-05",
-          "volta": "2027-03-07",
+          "ida": "2027-02-14",
+          "volta": "2027-02-22",
           "companhia": "Gol",
           "paradas": 0,
-          "link": "https://www.google.com/travel/explore?hl=pt-br&gl=br&curr=BRL&tfs=CBwQAxoVEgoyMDI3LTAzLTA1agcIARIDUkVDGhUSCjIwMjctMDMtMDdyBwgBEgNSRUNAAUgBcAGCAQsI____________AZgBAbIBDyoNCAMSCS9tLzA5d3dsag"
+          "link": "https://www.google.com/travel/explore?hl=pt-br&gl=br&curr=BRL&tfs=CBwQAxoVEgoyMDI3LTAyLTE0agcIARIDUkVDGhUSCjIwMjctMDItMjJyBwgBEgNSRUNAAUgBcAGCAQsI____________AZgBAbIBDyoNCAMSCS9tLzA5d3dsag"
+        },
+        {
+          "cidade": "Petrolina",
+          "codigo": "PNZ",
+          "preco": 599,
+          "ida": "2027-02-08",
+          "volta": "2027-02-15",
+          "companhia": "LATAM",
+          "paradas": 0,
+          "link": "https://www.google.com/travel/explore?hl=pt-br&gl=br&curr=BRL&tfs=CBwQAxoVEgoyMDI3LTAyLTA4agcIARIDUkVDGhUSCjIwMjctMDItMTVyBwgBEgNSRUNAAUgBcAGCAQsI____________AZgBAbIBDyoNCAMSCS9tLzA4ZnBqdw"
         }
       ]
     }
