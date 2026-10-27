@@ -156,11 +156,17 @@
         "ida": 462,
         "volta": 461,
         "total": 923
+      },
+      {
+        "quando": "27/10 07:41",
+        "ida": 462,
+        "volta": 461,
+        "total": 923
       }
     ],
     "menor_total": 769,
     "atual": {
-      "quando": "26/10 20:32",
+      "quando": "27/10 07:41",
       "total": 923,
       "ida": {
         "preco": 462,
@@ -191,29 +197,8 @@
       "Salvador|2027-02-14|2027-02-22": 594
     },
     "atual": {
-      "quando": "26/10 07:44",
-      "ofertas": [
-        {
-          "cidade": "Salvador",
-          "codigo": "SSA",
-          "preco": 594,
-          "ida": "2027-02-14",
-          "volta": "2027-02-22",
-          "companhia": "Gol",
-          "paradas": 0,
-          "link": "https://www.google.com/travel/explore?hl=pt-br&gl=br&curr=BRL&tfs=CBwQAxoVEgoyMDI3LTAyLTE0agcIARIDUkVDGhUSCjIwMjctMDItMjJyBwgBEgNSRUNAAUgBcAGCAQsI____________AZgBAbIBDyoNCAMSCS9tLzA5d3dsag"
-        },
-        {
-          "cidade": "Petrolina",
-          "codigo": "PNZ",
-          "preco": 599,
-          "ida": "2027-02-08",
-          "volta": "2027-02-15",
-          "companhia": "LATAM",
-          "paradas": 0,
-          "link": "https://www.google.com/travel/explore?hl=pt-br&gl=br&curr=BRL&tfs=CBwQAxoVEgoyMDI3LTAyLTA4agcIARIDUkVDGhUSCjIwMjctMDItMTVyBwgBEgNSRUNAAUgBcAGCAQsI____________AZgBAbIBDyoNCAMSCS9tLzA4ZnBqdw"
-        }
-      ]
+      "quando": "27/10 07:41",
+      "ofertas": []
     }
   }
 }
