@@ -174,14 +174,20 @@
         "ida": 438,
         "volta": 437,
         "total": 875
+      },
+      {
+        "quando": "28/10 07:49",
+        "ida": 482,
+        "volta": 481,
+        "total": 963
       }
     ],
     "menor_total": 769,
     "atual": {
-      "quando": "27/10 20:34",
-      "total": 875,
+      "quando": "28/10 07:49",
+      "total": 963,
       "ida": {
-        "preco": 438,
+        "preco": 482,
         "companhia": "LATAM",
         "saida": "04:00",
         "chegada": "05:20",
@@ -189,7 +195,7 @@
         "link": "https://www.google.com/travel/flights?hl=pt-br&gl=br&curr=BRL&tfs=CBwQAhoeEgoyMDI3LTAxLTI5agcIARIDUkVDcgcIARIDRk9SQAFIAXABmAEC&tfu=EgIIAQ"
       },
       "volta": {
-        "preco": 437,
+        "preco": 481,
         "companhia": "LATAM",
         "saida": "09:00",
         "chegada": "10:15",
@@ -209,7 +215,7 @@
       "Salvador|2027-02-14|2027-02-22": 594
     },
     "atual": {
-      "quando": "27/10 07:41",
+      "quando": "28/10 07:49",
       "ofertas": []
     }
   }
