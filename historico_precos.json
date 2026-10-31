@@ -228,11 +228,17 @@
         "ida": 377,
         "volta": 376,
         "total": 753
+      },
+      {
+        "quando": "31/10 07:39",
+        "ida": 377,
+        "volta": 376,
+        "total": 753
       }
     ],
     "menor_total": 753,
     "atual": {
-      "quando": "30/10 20:38",
+      "quando": "31/10 07:39",
       "total": 753,
       "ida": {
         "preco": 377,
@@ -260,11 +266,23 @@
       "Petrolina|2027-02-26|2027-03-01": 599,
       "Petrolina|2027-02-19|2027-02-26": 599,
       "Salvador|2027-03-05|2027-03-07": 594,
-      "Salvador|2027-02-14|2027-02-22": 594
+      "Salvador|2027-02-14|2027-02-22": 594,
+      "Petrolina|2027-01-29|2027-02-01": 551
     },
     "atual": {
-      "quando": "30/10 07:49",
-      "ofertas": []
+      "quando": "31/10 07:39",
+      "ofertas": [
+        {
+          "cidade": "Petrolina",
+          "codigo": "PNZ",
+          "preco": 551,
+          "ida": "2027-01-29",
+          "volta": "2027-02-01",
+          "companhia": "LATAM",
+          "paradas": 0,
+          "link": "https://www.google.com/travel/explore?hl=pt-br&gl=br&curr=BRL&tfs=CBwQAxoVEgoyMDI3LTAxLTI5agcIARIDUkVDGhUSCjIwMjctMDItMDFyBwgBEgNSRUNAAUgBcAGCAQsI____________AZgBAbIBDyoNCAMSCS9tLzA4ZnBqdw"
+        }
+      ]
     }
   }
 }
