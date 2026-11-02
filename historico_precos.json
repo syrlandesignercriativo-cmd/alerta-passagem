@@ -264,14 +264,20 @@
         "ida": 457,
         "volta": 376,
         "total": 833
+      },
+      {
+        "quando": "02/11 08:02",
+        "ida": 506,
+        "volta": 481,
+        "total": 987
       }
     ],
     "menor_total": 753,
     "atual": {
-      "quando": "01/11 20:36",
-      "total": 833,
+      "quando": "02/11 08:02",
+      "total": 987,
       "ida": {
-        "preco": 457,
+        "preco": 506,
         "companhia": "LATAM",
         "saida": "04:00",
         "chegada": "05:20",
@@ -279,7 +285,7 @@
         "link": "https://www.google.com/travel/flights?hl=pt-br&gl=br&curr=BRL&tfs=CBwQAhoeEgoyMDI3LTAxLTI5agcIARIDUkVDcgcIARIDRk9SQAFIAXABmAEC&tfu=EgIIAQ"
       },
       "volta": {
-        "preco": 376,
+        "preco": 481,
         "companhia": "LATAM",
         "saida": "09:00",
         "chegada": "10:15",
@@ -301,19 +307,8 @@
       "Petrolina|2027-02-01|2027-02-08": 551
     },
     "atual": {
-      "quando": "01/11 07:42",
-      "ofertas": [
-        {
-          "cidade": "Petrolina",
-          "codigo": "PNZ",
-          "preco": 551,
-          "ida": "2027-02-01",
-          "volta": "2027-02-08",
-          "companhia": "LATAM",
-          "paradas": 0,
-          "link": "https://www.google.com/travel/explore?hl=pt-br&gl=br&curr=BRL&tfs=CBwQAxoVEgoyMDI3LTAyLTAxagcIARIDUkVDGhUSCjIwMjctMDItMDhyBwgBEgNSRUNAAUgBcAGCAQsI____________AZgBAbIBDyoNCAMSCS9tLzA4ZnBqdw"
-        }
-      ]
+      "quando": "02/11 08:02",
+      "ofertas": []
     }
   }
 }
