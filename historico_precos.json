@@ -414,11 +414,17 @@
         "ida": 410,
         "volta": 409,
         "total": 819
+      },
+      {
+        "quando": "10/11 13:48",
+        "ida": 410,
+        "volta": 409,
+        "total": 819
       }
     ],
     "menor_total": 753,
     "atual": {
-      "quando": "10/11 07:55",
+      "quando": "10/11 13:48",
       "total": 819,
       "ida": {
         "preco": 410,
