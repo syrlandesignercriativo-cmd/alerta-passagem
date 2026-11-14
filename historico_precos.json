@@ -480,11 +480,17 @@
         "ida": 375,
         "volta": 374,
         "total": 749
+      },
+      {
+        "quando": "14/11 07:46",
+        "ida": 375,
+        "volta": 374,
+        "total": 749
       }
     ],
     "menor_total": 645,
     "atual": {
-      "quando": "13/11 20:42",
+      "quando": "14/11 07:46",
       "total": 749,
       "ida": {
         "preco": 375,
@@ -518,30 +524,31 @@
       "Petrolina|2027-03-12|2027-03-15": 551,
       "Salvador|2027-02-18|2027-02-24": 500,
       "Salvador|2027-02-25|2027-02-28": 555,
-      "Petrolina|2027-02-15|2027-02-22": 552
+      "Petrolina|2027-02-15|2027-02-22": 552,
+      "Salvador|2027-04-22|2027-04-26": 555
     },
     "atual": {
-      "quando": "13/11 08:01",
+      "quando": "14/11 07:46",
       "ofertas": [
-        {
-          "cidade": "Salvador",
-          "codigo": "SSA",
-          "preco": 500,
-          "ida": "2027-02-18",
-          "volta": "2027-02-24",
-          "companhia": "Azul",
-          "paradas": 0,
-          "link": "https://www.google.com/travel/explore?hl=pt-br&gl=br&curr=BRL&tfs=CBwQAxoVEgoyMDI3LTAyLTE4agcIARIDUkVDGhUSCjIwMjctMDItMjRyBwgBEgNSRUNAAUgBcAGCAQsI____________AZgBAbIBDyoNCAMSCS9tLzA5d3dsag"
-        },
         {
           "cidade": "Petrolina",
           "codigo": "PNZ",
-          "preco": 552,
-          "ida": "2027-02-15",
+          "preco": 551,
+          "ida": "2027-02-19",
           "volta": "2027-02-22",
           "companhia": "LATAM",
           "paradas": 0,
-          "link": "https://www.google.com/travel/explore?hl=pt-br&gl=br&curr=BRL&tfs=CBwQAxoVEgoyMDI3LTAyLTE1agcIARIDUkVDGhUSCjIwMjctMDItMjJyBwgBEgNSRUNAAUgBcAGCAQsI____________AZgBAbIBDyoNCAMSCS9tLzA4ZnBqdw"
+          "link": "https://www.google.com/travel/explore?hl=pt-br&gl=br&curr=BRL&tfs=CBwQAxoVEgoyMDI3LTAyLTE5agcIARIDUkVDGhUSCjIwMjctMDItMjJyBwgBEgNSRUNAAUgBcAGCAQsI____________AZgBAbIBDyoNCAMSCS9tLzA4ZnBqdw"
+        },
+        {
+          "cidade": "Salvador",
+          "codigo": "SSA",
+          "preco": 555,
+          "ida": "2027-04-22",
+          "volta": "2027-04-26",
+          "companhia": "Azul e Gol",
+          "paradas": 0,
+          "link": "https://www.google.com/travel/explore?hl=pt-br&gl=br&curr=BRL&tfs=CBwQAxoVEgoyMDI3LTA0LTIyagcIARIDUkVDGhUSCjIwMjctMDQtMjZyBwgBEgNSRUNAAUgBcAGCAQsI____________AZgBAbIBDyoNCAMSCS9tLzA5d3dsag"
         }
       ]
     }
