@@ -498,11 +498,17 @@
         "ida": 375,
         "volta": 374,
         "total": 749
+      },
+      {
+        "quando": "15/11 07:47",
+        "ida": 375,
+        "volta": 374,
+        "total": 749
       }
     ],
     "menor_total": 645,
     "atual": {
-      "quando": "14/11 20:38",
+      "quando": "15/11 07:47",
       "total": 749,
       "ida": {
         "preco": 375,
@@ -537,30 +543,31 @@
       "Salvador|2027-02-18|2027-02-24": 500,
       "Salvador|2027-02-25|2027-02-28": 555,
       "Petrolina|2027-02-15|2027-02-22": 552,
-      "Salvador|2027-04-22|2027-04-26": 555
+      "Salvador|2027-04-22|2027-04-26": 555,
+      "Salvador|2027-02-27|2027-03-06": 500
     },
     "atual": {
-      "quando": "14/11 07:46",
+      "quando": "15/11 07:47",
       "ofertas": [
+        {
+          "cidade": "Salvador",
+          "codigo": "SSA",
+          "preco": 500,
+          "ida": "2027-02-27",
+          "volta": "2027-03-06",
+          "companhia": "Azul",
+          "paradas": 0,
+          "link": "https://www.google.com/travel/explore?hl=pt-br&gl=br&curr=BRL&tfs=CBwQAxoVEgoyMDI3LTAyLTI3agcIARIDUkVDGhUSCjIwMjctMDMtMDZyBwgBEgNSRUNAAUgBcAGCAQsI____________AZgBAbIBDyoNCAMSCS9tLzA5d3dsag"
+        },
         {
           "cidade": "Petrolina",
           "codigo": "PNZ",
           "preco": 551,
-          "ida": "2027-02-19",
+          "ida": "2027-02-15",
           "volta": "2027-02-22",
           "companhia": "LATAM",
           "paradas": 0,
-          "link": "https://www.google.com/travel/explore?hl=pt-br&gl=br&curr=BRL&tfs=CBwQAxoVEgoyMDI3LTAyLTE5agcIARIDUkVDGhUSCjIwMjctMDItMjJyBwgBEgNSRUNAAUgBcAGCAQsI____________AZgBAbIBDyoNCAMSCS9tLzA4ZnBqdw"
-        },
-        {
-          "cidade": "Salvador",
-          "codigo": "SSA",
-          "preco": 555,
-          "ida": "2027-04-22",
-          "volta": "2027-04-26",
-          "companhia": "Azul e Gol",
-          "paradas": 0,
-          "link": "https://www.google.com/travel/explore?hl=pt-br&gl=br&curr=BRL&tfs=CBwQAxoVEgoyMDI3LTA0LTIyagcIARIDUkVDGhUSCjIwMjctMDQtMjZyBwgBEgNSRUNAAUgBcAGCAQsI____________AZgBAbIBDyoNCAMSCS9tLzA5d3dsag"
+          "link": "https://www.google.com/travel/explore?hl=pt-br&gl=br&curr=BRL&tfs=CBwQAxoVEgoyMDI3LTAyLTE1agcIARIDUkVDGhUSCjIwMjctMDItMjJyBwgBEgNSRUNAAUgBcAGCAQsI____________AZgBAbIBDyoNCAMSCS9tLzA4ZnBqdw"
         }
       ]
     }
