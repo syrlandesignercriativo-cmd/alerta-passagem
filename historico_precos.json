@@ -516,14 +516,20 @@
         "ida": 375,
         "volta": 374,
         "total": 749
+      },
+      {
+        "quando": "16/11 08:26",
+        "ida": 410,
+        "volta": 410,
+        "total": 820
       }
     ],
     "menor_total": 645,
     "atual": {
-      "quando": "15/11 20:47",
-      "total": 749,
+      "quando": "16/11 08:26",
+      "total": 820,
       "ida": {
-        "preco": 375,
+        "preco": 410,
         "companhia": "LATAM",
         "saida": "03:50",
         "chegada": "05:15",
@@ -531,7 +537,7 @@
         "link": "https://www.google.com/travel/flights?hl=pt-br&gl=br&curr=BRL&tfs=CBwQAhoeEgoyMDI3LTAxLTI5agcIARIDUkVDcgcIARIDRk9SQAFIAXABmAEC&tfu=EgIIAQ"
       },
       "volta": {
-        "preco": 374,
+        "preco": 410,
         "companhia": "LATAM",
         "saida": "09:00",
         "chegada": "10:15",
@@ -559,27 +565,17 @@
       "Salvador|2027-02-27|2027-03-06": 500
     },
     "atual": {
-      "quando": "15/11 07:47",
+      "quando": "16/11 08:26",
       "ofertas": [
-        {
-          "cidade": "Salvador",
-          "codigo": "SSA",
-          "preco": 500,
-          "ida": "2027-02-27",
-          "volta": "2027-03-06",
-          "companhia": "Azul",
-          "paradas": 0,
-          "link": "https://www.google.com/travel/explore?hl=pt-br&gl=br&curr=BRL&tfs=CBwQAxoVEgoyMDI3LTAyLTI3agcIARIDUkVDGhUSCjIwMjctMDMtMDZyBwgBEgNSRUNAAUgBcAGCAQsI____________AZgBAbIBDyoNCAMSCS9tLzA5d3dsag"
-        },
         {
           "cidade": "Petrolina",
           "codigo": "PNZ",
           "preco": 551,
-          "ida": "2027-02-15",
+          "ida": "2027-02-19",
           "volta": "2027-02-22",
           "companhia": "LATAM",
           "paradas": 0,
-          "link": "https://www.google.com/travel/explore?hl=pt-br&gl=br&curr=BRL&tfs=CBwQAxoVEgoyMDI3LTAyLTE1agcIARIDUkVDGhUSCjIwMjctMDItMjJyBwgBEgNSRUNAAUgBcAGCAQsI____________AZgBAbIBDyoNCAMSCS9tLzA4ZnBqdw"
+          "link": "https://www.google.com/travel/explore?hl=pt-br&gl=br&curr=BRL&tfs=CBwQAxoVEgoyMDI3LTAyLTE5agcIARIDUkVDGhUSCjIwMjctMDItMjJyBwgBEgNSRUNAAUgBcAGCAQsI____________AZgBAbIBDyoNCAMSCS9tLzA4ZnBqdw"
         }
       ]
     }
