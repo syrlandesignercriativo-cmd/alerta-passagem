@@ -522,12 +522,18 @@
         "ida": 410,
         "volta": 410,
         "total": 820
+      },
+      {
+        "quando": "16/11 14:09",
+        "ida": 410,
+        "volta": 409,
+        "total": 819
       }
     ],
     "menor_total": 645,
     "atual": {
-      "quando": "16/11 08:26",
-      "total": 820,
+      "quando": "16/11 14:09",
+      "total": 819,
       "ida": {
         "preco": 410,
         "companhia": "LATAM",
@@ -537,7 +543,7 @@
         "link": "https://www.google.com/travel/flights?hl=pt-br&gl=br&curr=BRL&tfs=CBwQAhoeEgoyMDI3LTAxLTI5agcIARIDUkVDcgcIARIDRk9SQAFIAXABmAEC&tfu=EgIIAQ"
       },
       "volta": {
-        "preco": 410,
+        "preco": 409,
         "companhia": "LATAM",
         "saida": "09:00",
         "chegada": "10:15",
