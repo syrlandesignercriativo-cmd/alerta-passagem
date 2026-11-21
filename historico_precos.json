@@ -600,11 +600,17 @@
         "ida": 392,
         "volta": 391,
         "total": 783
+      },
+      {
+        "quando": "21/11 00:54",
+        "ida": 392,
+        "volta": 391,
+        "total": 783
       }
     ],
     "menor_total": 645,
     "atual": {
-      "quando": "20/11 19:35",
+      "quando": "21/11 00:54",
       "total": 783,
       "ida": {
         "preco": 392,
@@ -643,7 +649,7 @@
       "Salvador|2027-02-27|2027-03-06": 500
     },
     "atual": {
-      "quando": "19/11 01:06",
+      "quando": "21/11 00:54",
       "ofertas": [
         {
           "cidade": "Petrolina",
