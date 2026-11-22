@@ -618,11 +618,17 @@
         "ida": 392,
         "volta": 391,
         "total": 783
+      },
+      {
+        "quando": "22/11 00:01",
+        "ida": 392,
+        "volta": 391,
+        "total": 783
       }
     ],
     "menor_total": 645,
     "atual": {
-      "quando": "21/11 18:34",
+      "quando": "22/11 00:01",
       "total": 783,
       "ida": {
         "preco": 392,
@@ -661,17 +667,17 @@
       "Salvador|2027-02-27|2027-03-06": 500
     },
     "atual": {
-      "quando": "21/11 00:54",
+      "quando": "22/11 00:01",
       "ofertas": [
         {
           "cidade": "Petrolina",
           "codigo": "PNZ",
           "preco": 551,
           "ida": "2027-02-19",
-          "volta": "2027-02-26",
+          "volta": "2027-02-22",
           "companhia": "LATAM",
           "paradas": 0,
-          "link": "https://www.google.com/travel/explore?hl=pt-br&gl=br&curr=BRL&tfs=CBwQAxoVEgoyMDI3LTAyLTE5agcIARIDUkVDGhUSCjIwMjctMDItMjZyBwgBEgNSRUNAAUgBcAGCAQsI____________AZgBAbIBDyoNCAMSCS9tLzA4ZnBqdw"
+          "link": "https://www.google.com/travel/explore?hl=pt-br&gl=br&curr=BRL&tfs=CBwQAxoVEgoyMDI3LTAyLTE5agcIARIDUkVDGhUSCjIwMjctMDItMjJyBwgBEgNSRUNAAUgBcAGCAQsI____________AZgBAbIBDyoNCAMSCS9tLzA4ZnBqdw"
         }
       ]
     }
