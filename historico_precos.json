@@ -666,11 +666,17 @@
         "ida": 410,
         "volta": 412,
         "total": 822
+      },
+      {
+        "quando": "24/11 21:32",
+        "ida": 410,
+        "volta": 412,
+        "total": 822
       }
     ],
     "menor_total": 645,
     "atual": {
-      "quando": "24/11 17:37",
+      "quando": "24/11 21:32",
       "total": 822,
       "ida": {
         "preco": 410,
