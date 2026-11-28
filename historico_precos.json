@@ -732,17 +732,23 @@
         "ida": 405,
         "volta": 404,
         "total": 809
+      },
+      {
+        "quando": "28/11 15:12",
+        "ida": 405,
+        "volta": 404,
+        "total": 809
       }
     ],
     "menor_total": 645,
     "atual": {
-      "quando": "28/11 01:42",
+      "quando": "28/11 15:12",
       "total": 809,
       "ida": {
         "preco": 405,
         "companhia": "Gol",
-        "saida": "21:40",
-        "chegada": "01:35",
+        "saida": "04:45",
+        "chegada": "11:15",
         "paradas": 1,
         "link": "https://www.google.com/travel/flights?hl=pt-br&gl=br&curr=BRL&tfs=CBwQAhoeEgoyMDI3LTAxLTI5agcIARIDUkVDcgcIARIDRk9SQAFIAXABmAEC&tfu=EgIIAQ"
       },
