@@ -726,14 +726,20 @@
         "ida": 349,
         "volta": 404,
         "total": 753
+      },
+      {
+        "quando": "28/11 01:42",
+        "ida": 405,
+        "volta": 404,
+        "total": 809
       }
     ],
     "menor_total": 645,
     "atual": {
-      "quando": "27/11 20:58",
-      "total": 753,
+      "quando": "28/11 01:42",
+      "total": 809,
       "ida": {
-        "preco": 349,
+        "preco": 405,
         "companhia": "Gol",
         "saida": "21:40",
         "chegada": "01:35",
@@ -767,30 +773,43 @@
       "Petrolina|2027-02-15|2027-02-22": 552,
       "Salvador|2027-04-22|2027-04-26": 555,
       "Salvador|2027-02-27|2027-03-06": 500,
-      "Petrolina|2027-02-22|2027-03-01": 551
+      "Petrolina|2027-02-22|2027-03-01": 551,
+      "Brasília|2027-04-29|2027-05-03": 469,
+      "Salvador|2027-04-09|2027-04-11": 516,
+      "Petrolina|2027-03-05|2027-03-08": 529
     },
     "atual": {
-      "quando": "26/11 01:56",
+      "quando": "28/11 01:42",
       "ofertas": [
         {
-          "cidade": "Petrolina",
-          "codigo": "PNZ",
-          "preco": 552,
-          "ida": "2027-02-26",
-          "volta": "2027-03-01",
-          "companhia": "LATAM",
+          "cidade": "Brasília",
+          "codigo": "BSB",
+          "preco": 469,
+          "ida": "2027-04-29",
+          "volta": "2027-05-03",
+          "companhia": "Gol",
           "paradas": 0,
-          "link": "https://www.google.com/travel/explore?hl=pt-br&gl=br&curr=BRL&tfs=CBwQAxoVEgoyMDI3LTAyLTI2agcIARIDUkVDGhUSCjIwMjctMDMtMDFyBwgBEgNSRUNAAUgBcAGCAQsI____________AZgBAbIBDyoNCAMSCS9tLzA4ZnBqdw"
+          "link": "https://www.google.com/travel/explore?hl=pt-br&gl=br&curr=BRL&tfs=CBwQAxoVEgoyMDI3LTA0LTI5agcIARIDUkVDGhUSCjIwMjctMDUtMDNyBwgBEgNSRUNAAUgBcAGCAQsI____________AZgBAbIBDioMCAMSCC9tLzAxaHlf"
         },
         {
           "cidade": "Salvador",
           "codigo": "SSA",
-          "preco": 594,
-          "ida": "2027-03-05",
-          "volta": "2027-03-07",
-          "companhia": "Gol",
+          "preco": 516,
+          "ida": "2027-04-09",
+          "volta": "2027-04-11",
+          "companhia": "Azul e Gol",
           "paradas": 0,
-          "link": "https://www.google.com/travel/explore?hl=pt-br&gl=br&curr=BRL&tfs=CBwQAxoVEgoyMDI3LTAzLTA1agcIARIDUkVDGhUSCjIwMjctMDMtMDdyBwgBEgNSRUNAAUgBcAGCAQsI____________AZgBAbIBDyoNCAMSCS9tLzA5d3dsag"
+          "link": "https://www.google.com/travel/explore?hl=pt-br&gl=br&curr=BRL&tfs=CBwQAxoVEgoyMDI3LTA0LTA5agcIARIDUkVDGhUSCjIwMjctMDQtMTFyBwgBEgNSRUNAAUgBcAGCAQsI____________AZgBAbIBDyoNCAMSCS9tLzA5d3dsag"
+        },
+        {
+          "cidade": "Petrolina",
+          "codigo": "PNZ",
+          "preco": 529,
+          "ida": "2027-03-05",
+          "volta": "2027-03-08",
+          "companhia": "LATAM",
+          "paradas": 0,
+          "link": "https://www.google.com/travel/explore?hl=pt-br&gl=br&curr=BRL&tfs=CBwQAxoVEgoyMDI3LTAzLTA1agcIARIDUkVDGhUSCjIwMjctMDMtMDhyBwgBEgNSRUNAAUgBcAGCAQsI____________AZgBAbIBDyoNCAMSCS9tLzA4ZnBqdw"
         }
       ]
     }
